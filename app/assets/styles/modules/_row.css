@@ -13,7 +13,7 @@
     &__b-margin-until-medium {
         margin-bottom: 1rem;
     }
-
+a
     @mixin atMedium{
 
         &__b-margin-until-medium {
